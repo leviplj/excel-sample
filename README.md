@@ -5,7 +5,7 @@ Configurando o virtual env usando python 3+:
 Ativando o vitual env:
 
 Linux: `source .venv/bin/activate`
-Windows: `.\env\Scripts\activate.bat`
+Windows: `.\venv\Scripts\activate.bat`
 
 Instalando dependências:
 
